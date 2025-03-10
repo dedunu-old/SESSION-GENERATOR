@@ -57,24 +57,28 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by WASI TECH*
-*_Made With 🤍_*
+*_⛩️Session Connected By Rukshan Tech⛩️_*
+*_Made With 🚀_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN WASI MD 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+║ *『AMAZING YOU'VE CHOSEN RUKA ALL MD』*
+║ _🛡️You Have Completed the First Step to Deploy a Whatsapp Bot.🚀_
 ╚════════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
-║❒ *Owner:* _https://wa.me/923192173398_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ *WA CHENNEL:* _https://whatsapp.com/channel/0029Vb4SL1L2Jl8MZ0uTBE2c_
+║❒ *Owner:* _https://wa.me/message/94759371545_
+║❒ *Repo:* _https://github.com/RED-SAMURAY/THA_SAMURAY_
+║❒ *WaGroup:* _https://chat.whatsapp.com/JKS3WWDAxht9aYsZJ4jX9I_
+║❒ *WaChannel 2:* _https://whatsapp.com/channel/0029Vb4SL1L2Jl8MZ0uTBE2c_
+║❒ *TELEGRAM:* _https://t.me/legionofdoom999_
 ╚════════════════════════╝
 _____________________________________
 
+_🏮THANX DINUWA BROTHER🫂🤝_
+
+_🚀Enjoy my sister and brother🚀_
+	
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
